@@ -1,0 +1,23 @@
+{
+"generated_at": "2025-08-13T17:10:00-07:00",
+"gurudev": [
+{"title":"Prayer is the cry of the soul…","takeaway":"Sincerity over form; find clarity through devotion.","source":"X","time":"Aug 11","thumb":"https://picsum.photos/seed/guru1/800/420","url":"#"},
+{"title":"Raksha Bandhan: strength & resolve","takeaway":"Protection, intention, determination.","source":"X","time":"Aug 9","thumb":"https://picsum.photos/seed/guru2/800/420","url":"#"}
+],
+"news": [
+{"title":"Rahul Gandhi to challenge discrepancies","takeaway":"Opposition weighing legal/public routes.","source":"Reuters","time":"Today","thumb":"https://picsum.photos/seed/news1/800/420","url":"#"},
+{"title":"Report: Modi may meet Trump in US","takeaway":"Trade/tariffs on agenda.","source":"Reuters","time":"Today","thumb":"https://picsum.photos/seed/news2/800/420","url":"#"}
+],
+"visa": [
+{"title":"August Visa Bulletin live","takeaway":"EB: Final Action; FB: Dates for Filing.","source":"USCIS/State","time":"Aug","thumb":"https://picsum.photos/seed/visa1/800/420","url":"#"},
+{"title":"Visa bonds program note","takeaway":"Refundable bonds for select B1/B2 travelers.","source":"State Dept","time":"Recent","thumb":"https://picsum.photos/seed/visa2/800/420","url":"#"}
+],
+"ai": [
+{"title":"Reasoning benchmarks trend","takeaway":"Agent workflows, evals, cost tradeoffs.","source":"X","time":"Today","thumb":"https://picsum.photos/seed/ai1/800/420","url":"#"},
+{"title":"Enterprise RAG playbooks","takeaway":"Chunking, retrieval, eval recipes.","source":"X","time":"Today","thumb":"https://picsum.photos/seed/ai2/800/420","url":"#"}
+],
+"productivity": [
+{"title":"Timeboxing with AI copilots","takeaway":"Deep work via prepped calendar blocks.","source":"X","time":"Today","thumb":"https://picsum.photos/seed/prod1/800/420","url":"#"},
+{"title":"PKM + AI summarization","takeaway":"Fast literature-to-notes pipeline.","source":"X","time":"Today","thumb":"https://picsum.photos/seed/prod2/800/420","url":"#"}
+]
+}
