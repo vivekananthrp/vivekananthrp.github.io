@@ -19,10 +19,12 @@ return el;
 }
 
 function card(item){
-const a=document.createElement('a');
-a.className='card';
-a.href=item.url||'#'; a.target='_blank'; a.rel='noopener';
-a.innerHTML = <img class="thumb" src="${item.thumb}" alt=""> <div class="content"> <div class="title">${item.title}</div> <div class="take">${item.takeaway||''}</div> <div class="source">${item.source||''} ${item.time? '- '+item.time:''}</div> </div>;
+const a = document.createElement('a');
+a.className = 'card';
+a.href = item.url || '#';
+a.target = '_blank';
+a.rel = 'noopener';
+a.innerHTML = <img class="thumb" src="${item.thumb}" alt=""> <div class="content"> <div class="title">${item.title}</div> <div class="take">${item.takeaway || ''}</div> <div class="source">${item.source || ''} ${item.time ? '- ' + item.time : ''}</div> </div>;
 return a;
 }
 
